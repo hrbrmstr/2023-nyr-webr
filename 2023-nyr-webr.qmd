@@ -331,7 +331,9 @@ At _best_, that just <span class="h">constrains you</span>.
 - Then remember all the _cool_ things <span class="h">you</span> know how to do <span class="h">in R</span>!
 - And, then consider what kind of <span class="h">lightweight and useful web apps</span> you might be able to bring into the world when you _don't need to worry about a Shiny server being available_.
 - And, then think about all the ways you can <span class="h">teach concepts in R</span> to folks _without needing a_ 💰☁️ _server_.
+  - Like the [School of Data](https://www.theschoolofdata.org/).
 - And, what changes when <span class="h">R is available to every modern mobile device</span>.
+  - Perhaps turn [this into an native iOS app vs macOS app](https://github.com/hrbrmstr/macoswasmr)
 
 ## Thank You! {background-image="img/you.webp" background-opacity="30%"}
 
