@@ -1,0 +1,24 @@
+---
+title: "&nbsp;"
+format: html
+engine: knitr
+filters:
+- webr
+---
+
+<style>
+body {
+  background-color: black;
+}
+pre code {
+  color: white;
+}
+.quarto-title-meta-heading,
+.quarto-title-meta-contents {
+  color: white !important;
+}
+</style>
+
+```{webr-r}
+sessionInfo()
+```

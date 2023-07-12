@@ -1,0 +1,50 @@
+
+/*-- scss:defaults --*/
+
+$body-bg: #000000;
+$body-color: #eeeeee;
+$link-color: #ffc72c;
+$presentation-heading-color: #ffffff;
+$code-color: green;
+$text-muted: #3c3c3c;
+$code-block-bg: #2c2c2c;
+$code-block-border-color: #000000;
+$font-family-sans-serif: "Slate Pro Condensed", Helvetica, sans-serif !default;
+$font-family-monospace: "Comic Code Ligatures", SFMono-Regular, Menlo, Monaco, Consolas, monospace !default;
+
+/*-- scss:rules --*/
+
+.reveal ul {
+  width:90%;
+}
+
+.reveal li {
+  list-style-type: '🕷️';
+  padding-left: 1rem;
+}
+
+.reveal li::marker {
+  font-size: 1.5rem;
+}
+
+.h {
+  color: $link-color;
+}
+
+.hb {
+  color: $link-color;
+  font-weight: 700;
+}
+
+.parenthetical {
+  color: $link-color;
+  font-family: "Comback home", "Slate Pro Condensed", Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 75%;
+  float: right;
+}
+
+iframe {
+  border: none;
+  overflow: hidden;
+}

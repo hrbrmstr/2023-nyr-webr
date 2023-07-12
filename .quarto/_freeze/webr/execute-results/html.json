@@ -1,0 +1,16 @@
+{
+  "hash": "75de7a37c36481da4f71a5b566b6b3bb",
+  "result": {
+    "markdown": "---\ntitle: \"&nbsp;\"\nformat: html\nengine: knitr\nfilters:\n- webr\n---\n\n\n<style>\nbody {\n  background-color: black;\n}\npre code {\n  color: white;\n}\n.quarto-title-meta-heading,\n.quarto-title-meta-contents {\n  color: white !important;\n}\n</style>\n\n```{webr-r}\nsessionInfo()\n```",
+    "supporting": [
+      "webr_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

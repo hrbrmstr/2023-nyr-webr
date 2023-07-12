@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Slate Pro Bk Condensed';
+    src: url('SlatePro-BkCondensed.eot');
+    src: local('Slate Pro Bk Condensed'), local('SlatePro-BkCondensed'),
+        url('SlatePro-BkCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BkCondensed.woff2') format('woff2'),
+        url('SlatePro-BkCondensed.woff') format('woff'),
+        url('SlatePro-BkCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-Italic.eot');
+    src: local('Slate Pro Italic'), local('SlatePro-Italic'),
+        url('SlatePro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Italic.woff2') format('woff2'),
+        url('SlatePro-Italic.woff') format('woff'),
+        url('SlatePro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Slate Pro Medium Condensed';
+    src: url('SlatePro-MediumCondensed.eot');
+    src: local('Slate Pro Medium Condensed'), local('SlatePro-MediumCondensed'),
+        url('SlatePro-MediumCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-MediumCondensed.woff2') format('woff2'),
+        url('SlatePro-MediumCondensed.woff') format('woff'),
+        url('SlatePro-MediumCondensed.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Bk';
+    src: url('SlatePro-Bk.eot');
+    src: local('Slate Pro Bk'), local('SlatePro-Bk'),
+        url('SlatePro-Bk.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Bk.woff2') format('woff2'),
+        url('SlatePro-Bk.woff') format('woff'),
+        url('SlatePro-Bk.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Black Condensed';
+    src: url('SlatePro-BlackCondensed.eot');
+    src: local('Slate Pro Black Condensed'), local('SlatePro-BlackCondensed'),
+        url('SlatePro-BlackCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BlackCondensed.woff2') format('woff2'),
+        url('SlatePro-BlackCondensed.woff') format('woff'),
+        url('SlatePro-BlackCondensed.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro.eot');
+    src: local('Slate Pro'), local('SlatePro'),
+        url('SlatePro.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro.woff2') format('woff2'),
+        url('SlatePro.woff') format('woff'),
+        url('SlatePro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-MediumItalic.eot');
+    src: local('Slate Pro Medium Italic'), local('SlatePro-MediumItalic'),
+        url('SlatePro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-MediumItalic.woff2') format('woff2'),
+        url('SlatePro-MediumItalic.woff') format('woff'),
+        url('SlatePro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-Bold.eot');
+    src: local('Slate Pro Bold'), local('SlatePro-Bold'),
+        url('SlatePro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Bold.woff2') format('woff2'),
+        url('SlatePro-Bold.woff') format('woff'),
+        url('SlatePro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-BlackItalic.eot');
+    src: local('Slate Pro Black Italic'), local('SlatePro-BlackItalic'),
+        url('SlatePro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BlackItalic.woff2') format('woff2'),
+        url('SlatePro-BlackItalic.woff') format('woff'),
+        url('SlatePro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-Black.eot');
+    src: local('Slate Pro Black'), local('SlatePro-Black'),
+        url('SlatePro-Black.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Black.woff2') format('woff2'),
+        url('SlatePro-Black.woff') format('woff'),
+        url('SlatePro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Condensed';
+    src: url('SlatePro-Condensed.eot');
+    src: local('Slate Pro Condensed'), local('SlatePro-Condensed'),
+        url('SlatePro-Condensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Condensed.woff2') format('woff2'),
+        url('SlatePro-Condensed.woff') format('woff'),
+        url('SlatePro-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-Medium.eot');
+    src: local('Slate Pro Medium'), local('SlatePro-Medium'),
+        url('SlatePro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Medium.woff2') format('woff2'),
+        url('SlatePro-Medium.woff') format('woff'),
+        url('SlatePro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Light Condensed';
+    src: url('SlatePro-LightCondensed.eot');
+    src: local('Slate Pro Light Condensed'), local('SlatePro-LightCondensed'),
+        url('SlatePro-LightCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-LightCondensed.woff2') format('woff2'),
+        url('SlatePro-LightCondensed.woff') format('woff'),
+        url('SlatePro-LightCondensed.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Condensed';
+    src: url('SlatePro-BoldCondensed.eot');
+    src: local('Slate Pro Bold Condensed'), local('SlatePro-BoldCondensed'),
+        url('SlatePro-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BoldCondensed.woff2') format('woff2'),
+        url('SlatePro-BoldCondensed.woff') format('woff'),
+        url('SlatePro-BoldCondensed.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-BoldItalic.eot');
+    src: local('Slate Pro Bold Italic'), local('SlatePro-BoldItalic'),
+        url('SlatePro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BoldItalic.woff2') format('woff2'),
+        url('SlatePro-BoldItalic.woff') format('woff'),
+        url('SlatePro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-Light.eot');
+    src: local('Slate Pro Light'), local('SlatePro-Light'),
+        url('SlatePro-Light.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-Light.woff2') format('woff2'),
+        url('SlatePro-Light.woff') format('woff'),
+        url('SlatePro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slate Pro Bk';
+    src: url('SlatePro-BkItalic.eot');
+    src: local('Slate Pro Bk Italic'), local('SlatePro-BkItalic'),
+        url('SlatePro-BkItalic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-BkItalic.woff2') format('woff2'),
+        url('SlatePro-BkItalic.woff') format('woff'),
+        url('SlatePro-BkItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Slate Pro';
+    src: url('SlatePro-LightItalic.eot');
+    src: local('Slate Pro Light Italic'), local('SlatePro-LightItalic'),
+        url('SlatePro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SlatePro-LightItalic.woff2') format('woff2'),
+        url('SlatePro-LightItalic.woff') format('woff'),
+        url('SlatePro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
