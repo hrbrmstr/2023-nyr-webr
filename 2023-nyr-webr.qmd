@@ -26,7 +26,7 @@ Bringing the power of R to your browser and beyond.
 
 ![](img/webassembly.svg)
 
-## WebAssembly {background-image="img/panels.png" background-opacity="20%"}
+## WebAssembly (2015) {background-image="img/panels.png" background-opacity="20%"}
 
 Binary instruction format targeting a stack-based virtual machine that runs <span class="h">in-browser</span> or <span class="h">on-system</span>.
 
@@ -103,6 +103,8 @@ Lionel Henry
 Waaaay back on Jan 17, 2022…
 
 `https://github.com/r-wasm/webr/`
+
+. . .
 
 `4c8a937881b0bb4a28a992389eba264020c8997c`
 
@@ -255,7 +257,7 @@ sessionInfo()
 ## Great Power {background-image="img/web.jpg" background-opacity="30%"}
 
 - There are now ~200 pre-built WebR 📦!!! (up from ~90)
-- [R-Universe](https://r-universe.dev/) is revving up to deliver WASM'd 📦
+- [R-Universe](https://r-universe.dev/)↗️ is revving up to deliver WASM'd 📦
 - All pure base R 📦 are actually available now.
 
 ## Web Slinging 101 {background-image="img/school.jpg" background-opacity="20%"}
@@ -299,51 +301,51 @@ At _best_, that just <span class="h">constrains you</span>.
 ## Web Slinging 101 {background-image="img/school.jpg" background-opacity="20%"}
 
 - Learn modern HTML / CSS / JS
-  - [Go Make Things](https://gomakethings.com/) is a good place to start.
-  - [MDN](https://developer.mozilla.org/en-US/docs/Learn) is a great resource.
-  - As is [W3Schools](https://www.w3schools.com/).
+  - [Go Make Things](https://gomakethings.com/) ↗️ is a good place to start.
+  - [MDN](https://developer.mozilla.org/en-US/docs/Learn) ↗️ is a great resource.
+  - As is [W3Schools](https://www.w3schools.com/) ↗️.
 - Learn modern _tooling_ for HTML / CSS / JS
-  - [Glitch](https://glitch.com/) lets you learn 100% online _(I have a WebR starter project on Glitch for you.)_ [ReplIt](https://replit. com/). is also 👍🏽.
+  - [Glitch](https://glitch.com/) ↗️lets you learn 100% online _(I have a WebR starter project on Glitch for you.)_ [ReplIt](https://replit.com/) ↗️. is also 👍🏽.
 - Use VS Code or one of the forks that doesn't spy on you.
-  - [neovim](https://github.com/neovim/neovim) is a solid alternative as is [Sublime Text](https://www.sublimetext.com/).
+  - [neovim](https://github.com/neovim/neovim) ↗️ is a solid alternative as is [Sublime Text](https://www.sublimetext.com/) ↗️.
 
 ## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
 
-- Hit up [the 🛸 mothership](https://docs.r-wasm.org/webr/latest/).
-- Check out [my 🧪🕸️ experiments](https://rud.is/webr-experiments/)
-- Start in [📜 Quarto](https://github.com/coatless/quarto-webr/)
-- [👀 Monitor the WebR topic](https://github.com/topics/webr)
-- Track the [awesome 📋 list](https://github.com/nanxstats/awesome-webr)
-- Keep an eye on what [R-universe 🌌 is up to](https://github.com/r-universe-org/webr-bundle/tree/master)
+- Hit up [the 🛸 mothership](https://docs.r-wasm.org/webr/latest/) ↗️.
+- Check out [my 🧪🕸️ experiments](https://rud.is/webr-experiments/) ↗️
+- Start in [📜 Quarto](https://github.com/coatless/quarto-webr/) ↗️
+- [👀 Monitor the WebR topic](https://github.com/topics/webr) ↗️
+- Track the [awesome 📋 list](https://github.com/nanxstats/awesome-webr) ↗️
+- Keep an eye on what [R-universe 🌌 is up to](https://github.com/r-universe-org/webr-bundle/tree/master) ↗️
 
 ## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - See what more established WASM language ports have been up to:
-  - Like what you can do with [Pyodide](https://testdriven.io/blog/build-spa-with-python-part-1/)
-  - And, [Rust](https://rustwasm.github.io/book/reference/project-templates.html)
-  - And, [Go](https://wasmbyexample.dev/examples/hello-world/hello-world.go.en-us.html)
+  - Like what you can do with [Pyodide](https://testdriven.io/blog/build-spa-with-python-part-1/)↗️
+  - And, [Rust](https://rustwasm.github.io/book/reference/project-templates.html)↗️
+  - And, [Go](https://wasmbyexample.dev/examples/hello-world/hello-world.go.en-us.html) ↗️
 - And, what amazing things you can do in WASM-ified land that we would have done in R:
-    - Like, [geocomputation/mapping](https://observablehq.com/@kylebarron/prototyping-georust-geoarrow-in-webassembly)
-    - And, robust [data wrangling](https://observablehq.com/@cmudig/duckdb)
+    - Like, [geocomputation/mapping](https://observablehq.com/@kylebarron/prototyping-georust-geoarrow-in-webassembly) ↗️
+    - And, robust [data wrangling](https://observablehq.com/@cmudig/duckdb) ↗️
 
 ## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - Then remember all the _cool_ things <span class="h">you</span> know how to do <span class="h">in R</span>!
 - And, then consider what kind of <span class="h">lightweight and useful web apps</span> you might be able to bring into the world when you _don't need to worry about a Shiny server being available_.
 - And, then think about all the ways you can <span class="h">teach concepts in R</span> to folks _without needing a_ 💰☁️ _server_.
-  - Like the [School of Data](https://www.theschoolofdata.org/).
+  - Like the [School of Data](https://www.theschoolofdata.org/) ↗️.
 - And, what changes when <span class="h">R is available to every modern mobile device</span>.
-  - Perhaps turn [this into an native iOS app vs macOS app](https://github.com/hrbrmstr/macoswasmr)
+  - Perhaps turn [this into an native iOS app vs macOS app](https://github.com/hrbrmstr/macoswasmr) ↗️
 
 ## Thank You! {background-image="img/you.webp" background-opacity="30%"}
 
-👉🏼 [Link to this presentation source](https://gitlab.com/hrbrmstr/2023-nyr-webr).
+👉🏼 [Link to this presentation source](https://gitlab.com/hrbrmstr/2023-nyr-webr) ↗️.
 
 📍 Where to find me:
 
-- <span style="font-family: 'comic code ligatures', monosapce;">@hrbrmstr@mastodon.social</span>
-- <span style="font-family: 'comic code ligatures', monosapce;">@hrbrmstr.dev</span> (bsky)
-- <span style="font-family: 'comic code ligatures', monosapce;">rud.is</span>
-- <span style="font-family: 'comic code ligatures', monosapce;">dailyfinds.hrbrmstr.dev</span>
-- <span style="font-family: 'comic code ligatures', monosapce;">observable.com/@hrbrmstr</span>
-- <span style="font-family: 'comic code ligatures', monosapce;">git[la|hu]b.com/hrbrmstr</span>
+- 🐘 <span style="font-family: 'comic code ligatures', monosapce;">@hrbrmstr@mastodon.social</span>
+- 🦋 <span style="font-family: 'comic code ligatures', monosapce;">@hrbrmstr.dev</span>
+- 🕸️ <span style="font-family: 'comic code ligatures', monosapce;">rud.is/</span>
+- 📰 <span style="font-family: 'comic code ligatures', monosapce;">dailyfinds.hrbrmstr.dev/</span>
+- 🔭 <span style="font-family: 'comic code ligatures', monosapce;">observable.com/@hrbrmstr/</span>
+- 📑 <span style="font-family: 'comic code ligatures', monosapce;">git[la|hu]b.com/hrbrmstr/</span>
