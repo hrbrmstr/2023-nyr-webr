@@ -208,7 +208,7 @@ seq.Date(as.Date("2018-01-02"), as.Date("2018-02-28"), "1 day") |>
 
 console.log(rDates)
  
-````
+```
 
 ## Great Power {background-image="img/web.jpg" background-opacity="30%"}
 
@@ -321,8 +321,8 @@ At _best_, that just <span class="h">constrains you</span>.
 ## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - See what more established WASM language ports have been up to:
-  - Like what you can do with [Pyodide](https://testdriven.io/blog/build-spa-with-python-part-1/)↗️
-  - And, [Rust](https://rustwasm.github.io/book/reference/project-templates.html)↗️
+  - Like what you can do with [Pyodide](https://testdriven.io/blog/build-spa-with-python-part-1/) ↗️
+  - And, [Rust](https://rustwasm.github.io/book/reference/project-templates.html) ↗️
   - And, [Go](https://wasmbyexample.dev/examples/hello-world/hello-world.go.en-us.html) ↗️
 - And, what amazing things you can do in WASM-ified land that we would have done in R:
     - Like, [geocomputation/mapping](https://observablehq.com/@kylebarron/prototyping-georust-geoarrow-in-webassembly) ↗️
