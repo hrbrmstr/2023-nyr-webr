@@ -347,5 +347,5 @@ At _best_, that just <span class="h">constrains you</span>.
 - 🦋 <span style="font-family: 'comic code ligatures', monosapce;">@hrbrmstr.dev</span>
 - 🕸️ <span style="font-family: 'comic code ligatures', monosapce;">rud.is/</span>
 - 📰 <span style="font-family: 'comic code ligatures', monosapce;">dailyfinds.hrbrmstr.dev/</span>
-- 🔭 <span style="font-family: 'comic code ligatures', monosapce;">observable.com/@hrbrmstr/</span>
+- 🔭 <span style="font-family: 'comic code ligatures', monosapce;">observablehq.com/@hrbrmstr/</span>
 - 📑 <span style="font-family: 'comic code ligatures', monosapce;">git[la|hu]b.com/hrbrmstr/</span>
