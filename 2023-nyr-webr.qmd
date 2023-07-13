@@ -24,7 +24,7 @@ Bringing the power of R to your browser and beyond.
 - Origin Story <span class="parenthetical">(i.e., The challeges of getting R compiled to WASM)</span>
 - With Great Power… <span class="parenthetical">(i.e., Just what _can_ you do with WebR)</span>
 - Web-Slinging 101 <span class="parenthetical">(i.e., Learning modern web dev skills)</span>
-- Dive Into The Spider-Verse <span class="parenthetical">(i.e., Ideas & where you can go to learn more)</span>
+- Dive Into The WebR-Verse <span class="parenthetical">(i.e., Ideas & where you can go to learn more)</span>
 
 ## Foundations {background-image="img/panels.png" background-opacity="20%"}
 
@@ -315,7 +315,7 @@ At _best_, that just <span class="h">constrains you</span>.
 - Use VS Code or one of the forks that doesn't spy on you.
   - [neovim](https://github.com/neovim/neovim) ↗️ is a solid alternative as is [Sublime Text](https://www.sublimetext.com/) ↗️.
 
-## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
+## Dive Into The WebR-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - Hit up [the 🛸 mothership](https://docs.r-wasm.org/webr/latest/) ↗️.
 - Check out [my 🧪🕸️ experiments](https://rud.is/webr-experiments/) ↗️
@@ -324,7 +324,7 @@ At _best_, that just <span class="h">constrains you</span>.
 - Track the [awesome 📋 list](https://github.com/nanxstats/awesome-webr) ↗️
 - Keep an eye on what [R-universe 🌌 is up to](https://github.com/r-universe-org/webr-bundle/tree/master) ↗️
 
-## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
+## Dive Into The WebR-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - See what more established WASM language ports have been up to:
   - Like what you can do with [Pyodide](https://testdriven.io/blog/build-spa-with-python-part-1/) ↗️
@@ -334,7 +334,7 @@ At _best_, that just <span class="h">constrains you</span>.
     - Like, [geocomputation/mapping](https://observablehq.com/@kylebarron/prototyping-georust-geoarrow-in-webassembly) ↗️
     - And, robust [data wrangling](https://observablehq.com/@cmudig/duckdb) ↗️
 
-## Dive Into The Spider-Verse {background-image="img/across.avif" background-opacity="20%"}
+## Dive Into The WebR-Verse {background-image="img/across.avif" background-opacity="20%"}
 
 - Then remember all the _cool_ things <span class="h">you</span> know how to do <span class="h">in R</span>!
 - And, then consider what kind of <span class="h">lightweight and useful web apps</span> you might be able to bring into the world when you _don't need to worry about a Shiny server being available_.
