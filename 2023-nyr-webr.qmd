@@ -8,7 +8,11 @@ format:
     theme: [dark, custom.scss]
 ---
 
-# Before we begin…
+# (2 things) Before we begin…
+
+<center>
+![](img/ukr-shield.png)
+</center>
 
 # Into the WebR-Verse {background-image="img/mask.jpg" background-opacity="20%"}
 
@@ -136,7 +140,7 @@ In theory…
 
 . . .
 
-<center>✅ 💰 ✈️ 🏖️ 🍻</center>
+<center><h1>✅ 💰 ✈️ 🏖️ 🍻</h1></center>
 
 ## Origin Story {background-image="img/bite.webp" background-opacity="50%"}
 
@@ -148,7 +152,7 @@ But you and I use _alot_ of FORTRAN when we use R
 
 . . .
 
-<center>😩 😖 😡</center>
+<center><h1>😩 😖 😡</h1></center>
 
 ## Now… {background-image="img/bite.webp" background-opacity="30%"}
 
@@ -198,8 +202,8 @@ export const webR = globalThis.webR;
 
 import './r.js'
 
-// I kinda made a nice helper function to make calling R code super easy.
-// We don't have time to go into to it today.
+// I kinda made a 😊 helper ƒ() to make calling R code from JS super 😌
+// We don't have 🕐 to go into to it today.
 
 const rDates = await R`
 seq.Date(as.Date("2018-01-02"), as.Date("2018-02-28"), "1 day") |> 
@@ -257,10 +261,12 @@ sessionInfo()
 ## Great Power {background-image="img/web.jpg" background-opacity="30%"}
 
 - There are now ~200 pre-built WebR 📦!!! (up from ~90)
-- [R-Universe](https://r-universe.dev/)↗️ is revving up to deliver WASM'd 📦
+- [R-Universe](https://r-universe.dev/) ↗️ is revving up to deliver WASM'd 📦
 - All pure base R 📦 are actually available now.
 
 ## Web Slinging 101 {background-image="img/school.jpg" background-opacity="20%"}
+
+. . . 
 
 I purport that all of you know:
 
